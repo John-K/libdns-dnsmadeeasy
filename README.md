@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> This repo is now a part of [libdns](https://github.com/libdns/libdns) and is now [located here](https://github.com/libdns/dnsmadeeasy)
+>
+
 DNS Made Easy for [libdns](https://github.com/libdns/libdns)
 =======================
 [![Go Reference](https://pkg.go.dev/badge/test.svg)](https://pkg.go.dev/github.com/john-k/libdns-dnsmadeeasy
